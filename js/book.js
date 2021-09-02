@@ -106,7 +106,6 @@ const searchResult = data => {
 
 
 
-console.log('hello')
 
 
 
